@@ -1,0 +1,14 @@
+{
+  "name": "ugac-website",
+  "version": "1.0.0",
+  "description": "Undergraduate Academic Council Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "start": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "dependencies": {
+    "ogl": "^1.0.11",
+    "tailwindcss": "^3.0.0"
+  }
+}
