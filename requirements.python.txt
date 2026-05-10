@@ -1,0 +1,6 @@
+# Basic requirements for web development
+flask
+jinja2
+requests
+sqlalchemy
+wtforms
