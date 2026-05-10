@@ -4,6 +4,7 @@
   "description": "Undergraduate Academic Council Website",
   "main": "index.js",
   "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css",
     "dev": "node dev-server.js",
     "start": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },

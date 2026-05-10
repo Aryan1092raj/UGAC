@@ -1,0 +1,6 @@
+{
+  "installCommand": "npm install",
+  "buildCommand": "cmd /c npx tailwindcss -i .\\src\\input.css -o .\\dist\\output.css",
+  "outputDirectory": ".",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}

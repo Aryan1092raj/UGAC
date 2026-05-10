@@ -1,0 +1,4 @@
+.venv/
+.omx/
+.vscode/
+requirements.txt
