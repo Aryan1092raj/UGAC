@@ -41,11 +41,7 @@ export function mountFooter(containerId = "footer") {
             </div>
           </div>
 
-          <div class="space-y-2">
-            <h4 class="text-lg font-semibold text-white">Useful info</h4>
-            <p class="text-slate-300">UG Academic Handbook is produced by UG Academic Council.</p>
-            <p class="text-slate-400 text-sm">Directory lists Academic Affairs Secretary under Academic Affairs section.</p>
-          </div>
+        
         </div>
 
         <aside class="space-y-4">
